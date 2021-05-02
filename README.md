@@ -9,7 +9,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](#)
 
 # dashboard
-Detailed Dashboard View for Odoo 14.0 Point Of Sale
+Detailed Dashboard View for Odoo 14.0 Point Of Sale | Code is gonna be open sourced soon
 
 ### Key Highlights
 -  Total Pos Orders
