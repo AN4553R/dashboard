@@ -18,6 +18,7 @@ Detailed Dashboard View for Odoo Point Of Sale
 - Sale Report
 
 > This module helps you to see the Overview of POS, here You can see the total orders, sessions, top customers, top products etc
+> Less featured open source module for Odoo 13 has +951 downloads in Odoo Apps Store
 
 ### Features
 - Total Pos Orders
