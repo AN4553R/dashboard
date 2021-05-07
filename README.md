@@ -29,6 +29,20 @@ Detailed Dashboard View for Odoo 14.0 Point Of Sale | Code is gonna be open sour
 - Sale Report Charts
 - Top Products
 
+ <details align="center">
+    <summary align="left"><strong>Tools and Technologies:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://i.ibb.co/cgG06tB/icons8-python-50.png" width=50px/><br>Python</td>
+             <td  align = "center"><img src="https://i.ibb.co/dfsZ4xg/icons8-postgresql-50.png" width=50px/><br>Postgresql</td>
+             <td  align = "center"><img src="https://i.ibb.co/ZGDPM0t/xml.png" width=50px/><br>XML-RPC</td>
+             <td  align = "center"><img src="https://i.ibb.co/WFX56GR/icons8-html-filetype-50.png" width=50px/><br>HTML</td>
+             <td  align = "center"><img src="https://i.ibb.co/KbzNs5K/icons8-css-filetype-50.png" width=50px/><br>CSS</td>
+             <td  align = "center"><img src="https://i.ibb.co/x6k2XfJ/icons8-javascript-50.png" width=50px/><br>JavaScript</td>
+         </tr>    
+    </table>
+</details>
+
 ![1](screenshots/1.png)
 ![2](screenshots/2.png)
 ![3](screenshots/3.png)
