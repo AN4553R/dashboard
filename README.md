@@ -39,6 +39,7 @@ Detailed Dashboard View for Odoo 14.0 Point Of Sale | Code is gonna be open sour
              <td  align = "center"><img src="https://i.ibb.co/WFX56GR/icons8-html-filetype-50.png" width=50px/><br>HTML</td>
              <td  align = "center"><img src="https://i.ibb.co/KbzNs5K/icons8-css-filetype-50.png" width=50px/><br>CSS</td>
              <td  align = "center"><img src="https://i.ibb.co/x6k2XfJ/icons8-javascript-50.png" width=50px/><br>JavaScript</td>
+             <td  align = "center"><img src="https://i.ibb.co/sqH2kB9/chart-js.png" width=50px/><br>Chart.js</td>
          </tr>    
     </table>
 </details>
